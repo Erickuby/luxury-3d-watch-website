@@ -12,6 +12,10 @@ export const metadata: Metadata = {
   title: "CHRONO AI — Virtual Try-On | Luxury Smartwatch",
   description:
     "Experience the future of luxury horology. AI-powered virtual try-on for the world's most advanced smartwatch. Precision engineering meets intelligent design.",
+  icons: {
+    icon: "/icon.png",
+    apple: "/icon.png",
+  },
   openGraph: {
     title: "CHRONO AI — Virtual Try-On",
     description:
